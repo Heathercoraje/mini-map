@@ -38,7 +38,7 @@ Here is a list of items one must be familiar with as in its basic knowledge and 
 + **Project**
 
 - [ ] One personal project 
-- [ ] *optional* Rebuild projects from fac 
+- [ ] Rebuild projects from fac *optional*  
 
 + **Curriculums vitae**
 
