@@ -39,7 +39,7 @@ Here is a list of items one must be familiar with as in its basic knowledge and 
 
 + Project
 
-- [ ] Cne personal project 
+- [ ] One personal project 
 - [ ] *optional* Rebuild projects from fac 
 
 + Curriculums vitae
