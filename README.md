@@ -1,5 +1,5 @@
 # mini-map 
-Mini road map to land first dev job after fac as a full-stack developer.
+A mini road map to land first dev job after fac as a full-stack developer.
 Here is a list of items one must be familiar with as in its basic knowledge and implementation 
 
 ---
