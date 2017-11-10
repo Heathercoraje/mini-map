@@ -1,24 +1,22 @@
 # mini-map 
-Mini road map to land first dev job after fac
-
-#### Full-stack developer
+Mini road map to land first dev job after fac as a full-stack developer.
 Here is a list of items one must be familiar with as in its basic knowledge and implementation 
 
 ---
 
-+ Fundamental 
++ **Fundamental** 
 
 - [ ] Fundamentals of computer science(algorithms, data structure, programming basics)
 - [ ] Ebooks on language(Eloquent Javascript, YDKJS)
 
-+ Basic
++ **Basic**
 
 - [ ]  HTML 
 - [ ]  CSS + SASS
 - [ ]  Basic js + Jquery
 - [ ]  Basic devOps knowledge 
 
-+ Front-end 
++ **Front-end** 
 
 - [ ] Frontend framework (React, Angualr, Vue)
 - [ ] React Native / Ionic *optional*
@@ -28,7 +26,7 @@ Here is a list of items one must be familiar with as in its basic knowledge and 
 - [ ] Debugging using chrome dev tools
 - [ ] IDE
 
-+ Back-end
++ **Back-end**
 
 - [ ] Backend framework (Node, Express)
 - [ ] API 
@@ -37,12 +35,12 @@ Here is a list of items one must be familiar with as in its basic knowledge and 
 - [ ] OAuth *optional*
 - [ ] BDD 
 
-+ Project
++ **Project**
 
 - [ ] One personal project 
 - [ ] *optional* Rebuild projects from fac 
 
-+ Curriculums vitae
++ **Curriculums vitae**
 
 - [ ] Github cv (or a website)
 - [ ] Linkedin 
