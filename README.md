@@ -8,8 +8,8 @@ Here is a list of items one must be familiar with as in its basic knowledge and 
 
 - [x] Fundamentals of computer science(algorithms, data structure, programming basics)
   + [MIT Introcution to computer science and programming](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2017_2/course/#block-v1:MITx+6.00.1x+2T2017_2+type@chapter+block@f0a19f0a8c2d49f3aa78ef3823845271)
-- [ ] Ebooks on language(Eloquent Javascript, YDKJS)
-  + Eloquent Javascript (project #1, #2)
+- [ ] Ebooks on language (YDKJS)
+ 
 
 + **Basic**
 
@@ -20,7 +20,7 @@ Here is a list of items one must be familiar with as in its basic knowledge and 
 
 + **Front-end**
 
-- [ ] Frontend framework (React w/Redux, Angualr, Vue)
+- [ ] Frontend framework (**React w/Redux**, Angualr, Vue)
 - [ ] React Native / Ionic *optional*
 - [ ] Build tools
 - [ ] TDD
@@ -39,7 +39,7 @@ Here is a list of items one must be familiar with as in its basic knowledge and 
 
 + **Project**
 
-- [ ] One personal project
+- [ ] FE-oriented projects
 - [ ] Rebuild projects from fac *optional*  
 
 + **Curriculums vitae**
