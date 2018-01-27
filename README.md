@@ -37,12 +37,15 @@ Here is a list of items one must be familiar with as in its basic knowledge and 
 - [ ] OAuth *optional*
 - [ ] BDD
 
-+ **Project**
++ **Portfolio/Project**
 - [ ] a couple of project with BE (code-oriendted)
 - [ ] a couple of react-oriented project (showcase-oriented)
 - [ ] MVP (management-oriented) 
 
+roadmaps for skillset 
+
 + **Curriculums vitae**
 - [ ] coverletters with story 
 - [ ] Github cv (or a website)
-- [ ] Linkedin
+- [ ] Linkedin 
+
