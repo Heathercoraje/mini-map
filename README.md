@@ -43,6 +43,6 @@ Here is a list of items one must be familiar with as in its basic knowledge and 
 - [ ] MVP (management-oriented) 
 
 + **Curriculums vitae**
-
+- [ ] coverletters with story 
 - [ ] Github cv (or a website)
 - [ ] Linkedin
