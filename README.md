@@ -38,9 +38,9 @@ Here is a list of items one must be familiar with as in its basic knowledge and 
 - [ ] BDD
 
 + **Project**
-
-- [ ] FE-oriented projects
-- [ ] Rebuild projects from fac *optional*  
+- [ ] a couple of project with BE 
+- [ ] a couple of react-oriented project 
+- [ ] MVP 
 
 + **Curriculums vitae**
 
