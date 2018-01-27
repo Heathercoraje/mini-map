@@ -8,19 +8,19 @@ Here is a list of items one must be familiar with as in its basic knowledge and 
 
 - [x] Fundamentals of computer science(algorithms, data structure, programming basics)
   + [MIT Introcution to computer science and programming](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2017_2/course/#block-v1:MITx+6.00.1x+2T2017_2+type@chapter+block@f0a19f0a8c2d49f3aa78ef3823845271)
-- [ ] Ebooks on language (YDKJS)
+- [ ] Ebooks on language (YDKJS) [in progress] 
  
 
 + **Basic**
 
-- [ ]  HTML
-- [ ]  CSS + SASS
-- [ ]  Basic js + Jquery
+- [ ]  HTML5 [in progress]
+- [ ]  CSS + SASS [in progress]
+- [ ]  Basic js + Jquery [in progress]
 - [ ]  Basic devOps knowledge
 
 + **Front-end**
 
-- [ ] Frontend framework (**React w/Redux**, Angualr, Vue)
+- [ ] Frontend framework: **React/redux** [in progress]
 - [ ] React Native / Ionic *optional*
 - [ ] Build tools
 - [ ] TDD
@@ -30,7 +30,7 @@ Here is a list of items one must be familiar with as in its basic knowledge and 
 
 + **Back-end**
 
-- [ ] Backend framework (Node, Express)
+- [ ] Backend framework (Node, Express/Ruby and Rails)
 - [ ] API
 - [ ] Database (sql, nosql, ORM)
 - [ ] Authentification (Session, token-based)
@@ -38,9 +38,9 @@ Here is a list of items one must be familiar with as in its basic knowledge and 
 - [ ] BDD
 
 + **Project**
-- [ ] a couple of project with BE 
-- [ ] a couple of react-oriented project 
-- [ ] MVP 
+- [ ] a couple of project with BE (code-oriendted)
+- [ ] a couple of react-oriented project (showcase-oriented)
+- [ ] MVP (management-oriented) 
 
 + **Curriculums vitae**
 
