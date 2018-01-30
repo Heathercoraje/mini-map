@@ -14,13 +14,14 @@ Here is a list of items one must be familiar with as in its basic knowledge and 
 + **Basic**
 
 - [ ]  HTML5 [in progress]
-- [ ]  CSS + SASS [in progress]
+- [ ]  CSS + Bootstrap [in progress]
 - [ ]  Basic js + Jquery [in progress]
 - [ ]  Basic devOps knowledge
 
 + **Front-end**
 
 - [ ] Frontend framework: **React/redux** [in progress]
+- [ ] CSS Processors (LESS, SASS) 
 - [ ] React Native / Ionic *optional*
 - [ ] Build tools
 - [ ] TDD
