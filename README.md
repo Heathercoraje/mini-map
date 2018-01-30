@@ -39,7 +39,7 @@ Here is a list of items one must be familiar with as in its basic knowledge and 
 - [ ] BDD
 
 + **Portfolio/Project**
-- [ ] project with BE (code-oriendted)
+- [ ] project with BE (code-oriented)
 - [ ] React-oriented project (showcase-oriented)
 - [ ] MVP (management-oriented) 
 
