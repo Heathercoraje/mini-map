@@ -13,9 +13,9 @@ Here is a list of items one must be familiar with as in its basic knowledge and 
 
 + **Basic**
 
-- [ ]  HTML5 [in progress]
-- [ ]  CSS + Bootstrap [in progress]
-- [ ]  Basic js + Jquery [in progress]
+- [x]  HTML5 
+- [x]  CSS + Bootstrap
+- [x]  Basic js + Jquery 
 - [ ]  Basic devOps knowledge
 
 + **Front-end**
@@ -31,7 +31,7 @@ Here is a list of items one must be familiar with as in its basic knowledge and 
 
 + **Back-end**
 
-- [ ] Backend framework (Node, Express/Ruby and Rails)
+- [ ] Backend framework (Node, Express/Ruby and Rails) [in progress]
 - [ ] API
 - [ ] Database (sql, nosql, ORM)
 - [ ] Authentification (Session, token-based)
