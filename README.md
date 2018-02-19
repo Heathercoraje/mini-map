@@ -20,13 +20,13 @@ Here is a list of items one must be familiar with as in its basic knowledge and 
 
 + **Front-end**
 
-- [ ] Frontend framework: **React/redux** [in progress]
-- [ ] CSS Processors (LESS, SASS) 
+- [ ] Frontend framework: **React** [in progress]
+- [ ] CSS Processors (SASS/Styled component) [in progress]
 - [ ] React Native / Ionic *optional*
-- [ ] Build tools
-- [ ] TDD
+- [ ] Build tools [in progress]
+- [ ] TDD (Jasmine/mocha) [in progress]
 - [ ] BDD
-- [ ] Debugging using chrome dev tools
+- [ ] Debugging using chrome dev tools [in progress]
 - [ ] IDE
 
 + **Back-end**
@@ -40,7 +40,7 @@ Here is a list of items one must be familiar with as in its basic knowledge and 
 
 + **Portfolio/Project**
 - [ ] project with BE (code-oriented)
-- [ ] React-oriented project (showcase-oriented)
+- [ ] React-oriented project (showcase-oriented) [in progress]
 - [ ] MVP (management-oriented) 
 
 roadmaps for skillset 
